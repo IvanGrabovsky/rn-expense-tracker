@@ -1,4 +1,6 @@
-# expense tracker app
+# rn-expense-tracker
+
+Expense tracker app (React Native / Expo).
 
 ## How to run the app
 
